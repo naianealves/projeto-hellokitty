@@ -1,0 +1,77 @@
+
+body{
+background-color: rgba(252, 174, 213, 0.548);
+
+}
+div#ask {
+    color: rgb(179, 15, 170);
+}
+a:hover {
+    color: rgb(0, 0, 0);
+}
+
+ul#album li{
+    border: 5px solid rgba(0, 0, 0, 0.801);
+    width: 200px;
+    height: 220px;
+    float: left;
+    list-style: none;
+    margin: 50px;
+}
+
+
+
+h1{
+    margin-top: 60px;
+    text-align: center;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-size: 45px;
+    margin-left: 175px;
+    margin-right: 175px;
+}
+ul#album {
+    margin-left: 175px;
+}
+
+ul#album li#comida{
+    background: url('hellokittypizza.jpg') no-repeat;
+    background-size: 200px 220px;
+
+}
+
+ul#album li#comida2{
+    background: url('hellokittycomer.jpg') no-repeat;
+    background-size: 200px 220px;
+
+}
+
+ul#album li#nacionalidade{
+    background: url('hellokittyjaponesa.jpg') no-repeat;
+    background-size: 200px 220px;
+
+}
+
+ul#album li#casa{
+    background: url('hellokittyinglaterra.jpg') no-repeat;
+    background-size: 200px 220px;
+
+}
+
+ul#album li#amigos{
+    background: url('hellokittyfriends.jpg') no-repeat;
+    background-size: 200px 220px;
+}
+
+ul#album li#esporte{
+    background: url('hellokittynadar.jpg') no-repeat;
+    background-size: 200px 220px;
+   
+}
+ul#album li span{
+    color: rgb(248, 129, 154);
+    font-family: 'Oswald', sans-serif;
+    line-height: 370px;
+    padding: 5px;
+    margin-left: 138px;
+}
